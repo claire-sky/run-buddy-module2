@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy Inc.
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,3 +12,4 @@ https://claire-sky.github.io/run-buddy-module2/
 
 ## Contribution
 Made with ❤️ by Claire Sky
+
