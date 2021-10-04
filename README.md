@@ -13,3 +13,4 @@ https://claire-sky.github.io/run-buddy-module2/
 ## Contribution
 Made with ❤️ by Claire Sky
 
+### ©️2019 Run Buddy, Inc 
